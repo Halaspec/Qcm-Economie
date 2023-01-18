@@ -2,13 +2,11 @@
 let questions = [
     {
     numb: 1,
-    question: "What does HTML stand for?",
-    answer: "Hyper Text Markup Language",
+    question: " Une création de monnaie supérieure aux besoins de l’économie entraine l’inflation : ",
+    answer: "VRAI",
     options: [
-      "Hyper Text Preprocessor",
-      "Hyper Text Markup Language",
-      "Hyper Text Multiple Language",
-      "Hyper Tool Multi Language"
+      "VRAI",
+      "FAUX",
     ]
   },
     {
