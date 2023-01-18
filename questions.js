@@ -71,7 +71,8 @@ question: "Le salaire walrasien est le salaire nominal qui équilibre l’offre 
 answer: "VRAI",
 options: [
 "VRAI",
-"FAUX"
+"FAUX", "VRAI ET FAUX",
+      "J'SAIS PO"
 ]
 },
 {
@@ -80,7 +81,8 @@ question: "L’économie peut être considérée comme la science des choix et d
 answer: "VRAI",
 options: [
 "VRAI",
-"FAUX"
+"FAUX", "VRAI ET FAUX",
+      "J'SAIS PO"
 ]
 },
     {
@@ -90,7 +92,8 @@ answer: "Autorégulateur du marché",
 options: [
 "Préconisé par le courant keynésien",
 "Autorégulateur du marché",
-"Qui préconise l’intervention de l’Etat"
+"Qui préconise l’intervention de l’Etat", "VRAI ET FAUX"
+   
 ]
 },
 {
@@ -110,7 +113,8 @@ question: "La formation brute des capitaux fixes peut être considérée comme d
 answer: "VRAI",
 options: [
 "VRAI",
-"FAUX"
+"FAUX", "VRAI ET FAUX",
+      "J'SAIS PO"
 ]
 },
 {
@@ -119,7 +123,8 @@ question: "Quand la demande de travail est supérieure à l’offre de travail, 
 answer: "Les entreprises",
 options: [
 "Les ménages",
-"Les entreprises"
+"Les entreprises", "VRAI ET FAUX",
+      "J'SAIS PO"
 ]
 },
 {
@@ -127,7 +132,8 @@ numb: 13,
 question: "Les activités de déforestation fait baisser le PIB :",
 answer: "VRAI",
 options: [
-"VRAI",
+"VRAI", "VRAI ET FAUX",
+      "J'SAIS PO",
 "FAUX"
 ]
 },
@@ -137,7 +143,8 @@ question: "Le capitalisme contemporain peut être considéré comme le capitalis
 answer: "VRAI",
 options: [
 "VRAI",
-"FAUX"
+"FAUX", "VRAI ET FAUX",
+      "J'SAIS PO"
 ]
 },
     {
@@ -146,7 +153,8 @@ question: "Dans le circuit économique, le flux réel est la contrepartie du flu
 answer: "VRAI",
 options: [
 "VRAI",
-"FAUX"
+"FAUX", "VRAI ET FAUX",
+      "J'SAIS PO"
 ]
 },
 {
@@ -155,7 +163,8 @@ question: "Un PIB est forcément un reflet du bien-être de la population ?",
 answer: "FAUX",
 options: [
 "VRAI",
-"FAUX"
+"FAUX", "VRAI ET FAUX",
+      "J'SAIS PO"
 ]
 },
 {
@@ -164,7 +173,8 @@ question: "Dans le modèle néoclassique, le pouvoir de négociation élevé syn
 answer: "FAUX",
 options: [
 "VRAI",
-"FAUX"
+"FAUX", "VRAI ET FAUX",
+      "J'SAIS PO"
 ]
 },
 {
@@ -173,7 +183,8 @@ question: "La formation brute des capitaux fixes peut être considérée comme d
 answer: "VRAI",
 options: [
 "VRAI",
-"FAUX"
+"FAUX", "VRAI ET FAUX",
+      "J'SAIS PO"
 ]
 },
 {
@@ -182,7 +193,8 @@ question: "Médecin sans frontière est une organisation productive :",
 answer: "Non-marchande",
 options: [
 "Marchande",
-"Non-marchande"
+"Non-marchande", "VRAI ET FAUX",
+      "J'SAIS PO"
 ]
 },
 {
@@ -191,7 +203,8 @@ question: "En matière de création monétaire, les crédits font les dépôts ?
 answer: "VRAI",
 options: [
 "VRAI",
-"FAUX"
+"FAUX", "VRAI ET FAUX",
+      "J'SAIS PO"
 ]
 },
   {
@@ -200,7 +213,8 @@ options: [
         answer: "Déflationnistes",
         options: [
         "Inflationnistes",
-        "Déflationnistes"
+        "Déflationnistes", "VRAI ET FAUX",
+      "J'SAIS PO"
         ]
         },
         {
@@ -229,7 +243,8 @@ options: [
         answer: "A son coût de production",
         options: [
         "Au prix du marché",
-        "A son coût de production"
+        "A son coût de production", "VRAI ET FAUX",
+      "J'SAIS PO"
         ]
         },
         {
@@ -238,7 +253,8 @@ options: [
         answer: "FAUX",
         options: [
         "VRAI",
-        "FAUX"
+        "FAUX", "VRAI ET FAUX",
+      "J'SAIS PO"
         ]
         },
         {
@@ -274,7 +290,8 @@ options: [
         answer: "VRAI",
         options: [
         "VRAI",
-        "FAUX"
+        "FAUX", "VRAI ET FAUX",
+      "J'SAIS PO"
         ]
         },
         {
@@ -283,7 +300,8 @@ options: [
         answer: "FAUX",
         options: [
         "VRAI",
-        "FAUX"
+        "FAUX", "VRAI ET FAUX",
+      "J'SAIS PO"
         ]
         },
         {
@@ -302,7 +320,8 @@ options: [
         answer: "FAUX",
         options: [
         "VRAI",
-        "FAUX"
+        "FAUX", "VRAI ET FAUX",
+      "J'SAIS PO"
         ]
         },
         {
@@ -311,7 +330,8 @@ options: [
         answer: "FAUX",
         options: [
         "VRAI",
-        "FAUX"
+        "FAUX", "VRAI ET FAUX",
+      "J'SAIS PO"
         ]
         },
         {
@@ -320,7 +340,8 @@ options: [
         answer: "FAUX",
         options: [
         "VRAI",
-        "FAUX"
+        "FAUX", "VRAI ET FAUX",
+      "J'SAIS PO"
         ]
         },
         {
@@ -329,7 +350,8 @@ options: [
         answer: "Non monétaire",
         options: [
         "Non monétaire",
-        "Monétaire"
+        "Monétaire", "VRAI ET FAUX",
+      "J'SAIS PO"
         ]
         },
         {
@@ -338,7 +360,8 @@ options: [
         answer: "VRAI",
         options: [
         "VRAI",
-        "FAUX"
+        "FAUX", "VRAI ET FAUX",
+      "J'SAIS PO"
         ]
         },
   {
@@ -357,7 +380,8 @@ options: [
             answer: "VRAI",
             options: [
             "VRAI",
-            "FAUX"
+            "FAUX", "VRAI ET FAUX",
+      "J'SAIS PO"
             ]
             },
             {
@@ -366,7 +390,8 @@ options: [
             answer: "VRAI",
             options: [
             "VRAI",
-            "FAUX"
+            "FAUX", "VRAI ET FAUX",
+      "J'SAIS PO"
             ]
             },
             {
@@ -375,7 +400,8 @@ options: [
             answer: "VRAI",
             options: [
             "VRAI",
-            "FAUX"
+            "FAUX", "VRAI ET FAUX",
+      "J'SAIS PO"
             ]
             },
 ];
