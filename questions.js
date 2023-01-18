@@ -61,7 +61,8 @@ question: "L’analyse normative permet d’avoir une démarche scientifique en 
 answer: "FAUX",
 options: [
 "VRAI",
-"FAUX"
+"FAUX", "VRAI ET FAUX",
+      "J'SAIS PO"
 ]
 },
 {
