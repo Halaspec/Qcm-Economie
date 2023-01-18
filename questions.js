@@ -194,5 +194,187 @@ options: [
 "FAUX"
 ]
 },
-    
+  {
+        numb: 21,
+        question: "Selon Keynes, le capitalisme livré à lui-même conduit à des phénomènes :",
+        answer: "Déflationnistes",
+        options: [
+        "Inflationnistes",
+        "Déflationnistes"
+        ]
+        },
+        {
+        numb: 22,
+        question: "Un pays enregistre les données suivantes (en milliards) en 2019 : Exportation = 50, Consommation = 100, FBCF = 15 (en 2018) a augmenté de 13% en 2019n importation = 80, 𝜟stocks = +15, dépense publique = 10. Le PIB du pays en 2019 est estimé à",
+        answer: "111,95",
+        options: [
+        "96,95",
+        "31,95",
+        "111,95"
+        ]
+        },
+        {
+        numb: 23,
+        question: "Dans un pays X, à l’année N, le PIB est de 1996,6 : le taux de prélèvement obligatoire s’élève à 43,9%, les prestations sociales reçues sont de 511,2 et la valeur des impôts sur le revenu est de 50,6. La valeur des prélèvements obligatoires est de :",
+        answer: "900,23",
+        options: [
+        "876,51",
+        "900,23",
+        "561,8"
+        ]
+        },
+        {
+        numb: 24,
+        question: "L’évaluation du service non-marchand est faite :",
+        answer: "A son coût de production",
+        options: [
+        "Au prix du marché",
+        "A son coût de production"
+        ]
+        },
+        {
+        numb: 25,
+        question: "L’analyse positive explique le monde tel qu’il devrait être :",
+        answer: "FAUX",
+        options: [
+        "VRAI",
+        "FAUX"
+        ]
+        },
+        {
+        numb: 26,
+        question: "Si un homme/femme épouse son homme de ménage ou sa femme de ménage, le PIB baisse :",
+        answer: "FAUX",
+        options: [
+        "VRAI",
+        "FAUX"
+        ]
+        },
+        {
+        numb: 27,
+        question: "Lacampagne de vaccination contre le Covid-19 est une production de service marchande :",
+        answer: "FAUX",
+        options: [
+        "VRAI",
+        "FAUX"
+        ]
+        },
+        {
+        numb: 28,
+        question: "Dans le modèle néoclassique du marché de travail, tout chômage est :",
+        answer: "Involontaire",
+        options: [
+        "Involontaire",
+        "Volontaire"
+        ]
+        },
+        {
+        numb: 29,
+        question: "Le PIB nominal est la somme des quantités de biens finaux produits multipliée par leur prix courant :",
+        answer: "VRAI",
+        options: [
+        "VRAI",
+        "FAUX"
+        ]
+        },
+        {
+        numb: 30,
+        question: "Dans le modèle néoclassique, le SMIC crée du chômage involontaire :",
+        answer: "FAUX",
+        options: [
+        "VRAI",
+        "FAUX"
+        ]
+        },
+        {
+        numb: 31,
+        question: "Les logiciels et bases de données sont considérés comme :",
+        answer: "Des capitaux variables",
+        options: [
+        "Des capitaux fixes",
+        "Des capitaux variables",
+        "Des consommations intermédiaires"
+        ]
+        },
+        {
+        numb: 32,
+        question: "Dans le modèle néoclassique, le pouvoir de négociation élevé syndical crée du chômage volontaire :",
+        answer: "FAUX",
+        options: [
+        "VRAI",
+        "FAUX"
+        ]
+        },
+        {
+        numb: 33,
+        question: "Les activités de l’économie souterraine sont comptabilisées dans le PIB :",
+        answer: "FAUX",
+        options: [
+        "VRAI",
+        "FAUX"
+        ]
+        },
+        {
+        numb: 34,
+        question: "Le but de la redistribution non-monétaire est de lutter contre l’inégalité monétaire :",
+        answer: "FAUX",
+        options: [
+        "VRAI",
+        "FAUX"
+        ]
+        },
+        {
+        numb: 35,
+        question: "Les déserts médicaux en France sont une forme de pauvreté :",
+        answer: "Non monétaire",
+        options: [
+        "Non monétaire",
+        "Monétaire"
+        ]
+        },
+        {
+        numb: 36,
+        question: "Chez les néoclassiques, la flexibilité du salaire est un moyen efficace de lutter contre le chômage :",
+        answer: "VRAI",
+        options: [
+        "VRAI",
+        "FAUX"
+        ]
+        }{
+            numb: 37,
+            question: "Parmi les monnaies suivantes, laquelle est qualifiée de monnaie scripturale :",
+            answer: "Les écritures bancaires",
+            options: [
+            "Les pièces",
+            "Les écritures bancaires",
+            "Les billets de banque"
+            ]
+            },
+            {
+            numb: 38,
+            question: "Dans les étapes du raisonnement économique, on formule des hypothèses et ensuite on vérifie les résultats :",
+            answer: "VRAI",
+            options: [
+            "VRAI",
+            "FAUX"
+            ]
+            },
+            {
+            numb: 39,
+            question: "La pollution d’une rivière par une usine fait baisser le PIB :",
+            answer: "VRAI",
+            options: [
+            "VRAI",
+            "FAUX"
+            ]
+            },
+            {
+            numb: 40,
+            question: "Un modèle économique est prédictif lorsqu’il permet d’expliquer le réel ou de prévoir à peu près correctement les données à venir :",
+            answer: "VRAI",
+            options: [
+            "VRAI",
+            "FAUX"
+            ]
+            },
 ];
