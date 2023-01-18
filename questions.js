@@ -82,5 +82,5 @@ options: [
 "VRAI",
 "FAUX"
 ]
-}]
+}
 ];
