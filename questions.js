@@ -1,4 +1,3 @@
-// creating an array and passing the number, questions, options, and answers
 let questions = [
     {
     numb: 1, //1
@@ -340,7 +339,8 @@ options: [
         "VRAI",
         "FAUX"
         ]
-        }{
+        },
+  {
             numb: 37,
             question: "Parmi les monnaies suivantes, laquelle est qualifiée de monnaie scripturale :",
             answer: "Les écritures bancaires",
