@@ -381,3 +381,12 @@ footer button.show{
     color: #fff;
     background: #007bff;
 }
+
+@media screen and (max-width: 500px) {
+    
+    .info_box.activeInfo, .quiz_box.activeQuiz, .result_box.activeResult {
+    transform: translate(-50%, -50%) scale(0.5);
+}
+    
+    
+}
