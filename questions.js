@@ -56,4 +56,31 @@ let questions = [
     ]
   },
   
+{
+numb: 6,
+question: "L’analyse normative permet d’avoir une démarche scientifique en économie ?",
+answer: "FAUX",
+options: [
+"VRAI",
+"FAUX"
+]
+},
+{
+numb: 7,
+question: "Le salaire walrasien est le salaire nominal qui équilibre l’offre et la demande de travail dans le modèle néoclassique ?",
+answer: "VRAI",
+options: [
+"VRAI",
+"FAUX"
+]
+},
+{
+numb: 8,
+question: "L’économie peut être considérée comme la science des choix et des arbitrages ?",
+answer: "VRAI",
+options: [
+"VRAI",
+"FAUX"
+]
+}]
 ];
