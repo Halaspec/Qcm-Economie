@@ -385,6 +385,7 @@ footer button.show{
 .set_score{
     background: white;
     width: fit-content;
+    display:none;
 }
 
 @media screen and (max-width: 500px) {
