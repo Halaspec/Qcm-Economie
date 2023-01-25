@@ -383,14 +383,30 @@ footer button.show{
 }
 
 .set_score{
-    background: white;
-    width: fit-content;
+    color: #004085;
+    background: #cce5ff;
+    border: 1px solid #b8daff;
+    height: 45px;
+    padding: 0 8px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 145px;
     display:none;
 }
 
 .set_score.active{
-    background: white;
-    width: fit-content;
+    color: #004085;
+    background: #cce5ff;
+    border: 1px solid #b8daff;
+    height: 45px;
+    padding: 0 8px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 145px;
     display:block;
 }
 
