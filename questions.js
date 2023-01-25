@@ -230,7 +230,7 @@ options: [
         {
         numb: 23,
         question: "Dans un pays X, à l’année N, le PIB est de 1996,6 : le taux de prélèvement obligatoire s’élève à 43,9%, les prestations sociales reçues sont de 511,2 et la valeur des impôts sur le revenu est de 50,6. La valeur des prélèvements obligatoires est de :",
-        answer: "561,8",
+        answer: "876,51",
         options: [
         "876,51",
         "900,23",
@@ -327,7 +327,7 @@ options: [
         {
         numb: 33,
         question: "Les activités de l’économie souterraine sont comptabilisées dans le PIB :",
-        answer: "FAUX",
+        answer: "VRAI",
         options: [
         "VRAI",
         "FAUX", "VRAI ET FAUX",
