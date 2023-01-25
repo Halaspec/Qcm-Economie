@@ -393,22 +393,13 @@ footer button.show{
     align-items: center;
     justify-content: space-between;
     width: 145px;
+    display:block;
+}
+
+.set_score.disabled{
     display:none;
 }
 
-.set_score.active{
-    color: #004085;
-    background: #cce5ff;
-    border: 1px solid #b8daff;
-    height: 45px;
-    padding: 0 8px;
-    border-radius: 5px;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    width: 145px;
-    display:block;
-}
 .myscore{
     font-size: 18px;
     font-weight: 500;
