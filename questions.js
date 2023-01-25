@@ -327,7 +327,7 @@ options: [
         {
         numb: 33,
         question: "Les activités de l’économie souterraine sont comptabilisées dans le PIB :",
-        answer: "VRAI",
+        answer: "FAUX",
         options: [
         "VRAI",
         "FAUX", "VRAI ET FAUX",
@@ -337,7 +337,7 @@ options: [
         {
         numb: 34,
         question: "Le but de la redistribution non-monétaire est de lutter contre l’inégalité monétaire :",
-        answer: "FAUX",
+        answer: "VRAI",
         options: [
         "VRAI",
         "FAUX", "VRAI ET FAUX",
