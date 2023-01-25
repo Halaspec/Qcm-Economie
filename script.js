@@ -114,7 +114,6 @@ let crossIconTag = '<div class="icon cross"><i class="fas fa-times"></i></div>';
 
 //if user clicked on option
 function optionSelected(answer){
-    alert(userScore);
     clearInterval(counter); //clear counter
     clearInterval(counterLine); //clear counterLine
     let userAns = answer.textContent; //getting user selected option
@@ -129,6 +128,7 @@ function optionSelected(answer){
         console.log("Your correct answers = " + userScore);
     }else{
         userScore -= 1; //upgrading score value with 1
+        if (userScore < 0 ) userScore = 0;
         answer.classList.add("incorrect"); //adding red color to correct selected option
         answer.insertAdjacentHTML("beforeend", crossIconTag); //adding cross icon to correct selected option
         console.log("Wrong Answer");
@@ -144,6 +144,7 @@ function optionSelected(answer){
     for(i=0; i < allOptions; i++){
         option_list.children[i].classList.add("disabled"); //once user select an option then disabled all options
     }
+        alert(userScore); // debug session 
     next_btn.classList.add("show"); //show the next button if user selected any option
 }
 
