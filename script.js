@@ -16,6 +16,8 @@ const myscore = document.querySelector(".myscore");
 start_btn.onclick = ()=>{
     info_box.classList.add("activeInfo"); //show info box
     myscore.classList.add("set_score.active");
+    myscore.classList.remove("set_score");
+
 }
 
 // if exitQuiz button clicked
