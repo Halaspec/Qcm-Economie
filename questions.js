@@ -377,7 +377,7 @@ options: [
             {
             numb: 38,
             question: "Dans les étapes du raisonnement économique, on formule des hypothèses et ensuite on vérifie les résultats :",
-            answer: "FAUX",
+            answer: "VRAI",
             options: [
             "VRAI",
             "FAUX", "VRAI ET FAUX",
