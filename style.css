@@ -396,11 +396,11 @@ footer button.show{
     display:block;
 }
 
-.set_score.disabled {
+.set_score.off {
     display:none;
 }
 
-.myscore{
+.myscore.onn{
     font-size: 18px;
     font-weight: 500;
     height: 30px px;
