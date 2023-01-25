@@ -156,8 +156,8 @@ function optionSelected(answer){
 }
 
 function showResult(){
-    set_score.classList.remove("set_score");
-    set_score.classList.add("set_score.disabled");//hide score bar
+    //set_score.classList.remove("set_score");
+    //set_score.classList.add("set_score.disabled");//hide score bar
     info_box.classList.remove("activeInfo"); //hide info box
     quiz_box.classList.remove("activeQuiz"); //hide quiz box
     result_box.classList.add("activeResult"); //show result box
