@@ -178,6 +178,7 @@ function showResult(){
 }
 
 function startTimer(time){
+    time=180;
     counter = setInterval(timer, 1000);
     function timer(){
         timeCount.textContent = time; //changing the value of timeCount with time value
@@ -207,7 +208,7 @@ function startTimer(time){
 }
 
 function startTimerLine(time){
-    counterLine = setInterval(timer, 300);
+    counterLine = setInterval(timer, 180);
     function timer(){
         time += 1; //upgrading time value with 1
         time_line.style.width = time + "px"; //increasing width of time_line with px by time value
