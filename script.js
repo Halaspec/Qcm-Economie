@@ -10,13 +10,13 @@ const time_line = document.querySelector("header .time_line");
 const timeText = document.querySelector(".timer .time_left_txt");
 const timeCount = document.querySelector(".timer .timer_sec");
 const myscore = document.querySelector(".myscore");   
-const set_score = document.querySelector(".set_score.disabled");   
+const set_score = document.querySelector(".set_score.off");   
 
 // if startQuiz button clicked
 start_btn.onclick = ()=>{
     info_box.classList.add("activeInfo"); //show info box
-    set_score.classList.remove("set_score.disabled");
-    set_score.classList.add("set_score");
+    set_score.classList.remove("set_score.off");
+    set_score.classList.add("set_score.onn");
    
 
 }
