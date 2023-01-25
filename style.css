@@ -382,25 +382,15 @@ footer button.show{
     background: #007bff;
 }
 
-.set_score{
-    color: #004085;
-    background: #cce5ff;
-    border: 1px solid #b8daff;
-    height: 45px;
-    padding: 0 8px;
-    border-radius: 5px;
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    width: 145px;
+.set_score.onn{
     display:block;
 }
 
 .set_score.off {
-    display:none;
+    color :white;
 }
 
-.myscore.onn{
+.myscore{
     font-size: 18px;
     font-weight: 500;
     height: 30px px;
