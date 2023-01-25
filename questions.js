@@ -68,7 +68,7 @@ options: [
 {
 numb: 7,
 question: "Le salaire walrasien est le salaire nominal qui équilibre l’offre et la demande de travail dans le modèle néoclassique ?",
-answer: "VRAI",
+answer: "FAUX",
 options: [
 "VRAI",
 "FAUX", "VRAI ET FAUX",
@@ -130,7 +130,7 @@ options: [
 {
 numb: 13,
 question: "Les activités de déforestation fait baisser le PIB :",
-answer: "VRAI",
+answer: "FAUX",
 options: [
 "VRAI", "VRAI ET FAUX",
       "J'SAIS PO",
@@ -210,7 +210,7 @@ options: [
   {
         numb: 21,
         question: "Selon Keynes, le capitalisme livré à lui-même conduit à des phénomènes :",
-        answer: "Déflationnistes",
+        answer: "Inflationnistes",
         options: [
         "Inflationnistes",
         "Déflationnistes", "VRAI ET FAUX",
@@ -230,7 +230,7 @@ options: [
         {
         numb: 23,
         question: "Dans un pays X, à l’année N, le PIB est de 1996,6 : le taux de prélèvement obligatoire s’élève à 43,9%, les prestations sociales reçues sont de 511,2 et la valeur des impôts sur le revenu est de 50,6. La valeur des prélèvements obligatoires est de :",
-        answer: "900,23",
+        answer: "876,51",
         options: [
         "876,51",
         "900,23",
@@ -240,7 +240,7 @@ options: [
         {
         numb: 24,
         question: "L’évaluation du service non-marchand est faite :",
-        answer: "A son coût de production",
+        answer: "Au prix du marché",
         options: [
         "Au prix du marché",
         "A son coût de production", "VRAI ET FAUX",
@@ -260,7 +260,7 @@ options: [
         {
         numb: 26,
         question: "Si un homme/femme épouse son homme de ménage ou sa femme de ménage, le PIB baisse :",
-        answer: "FAUX",
+        answer: "VRAI",
         options: [
         "VRAI",
         "FAUX"
@@ -377,7 +377,7 @@ options: [
             {
             numb: 38,
             question: "Dans les étapes du raisonnement économique, on formule des hypothèses et ensuite on vérifie les résultats :",
-            answer: "VRAI",
+            answer: "FAUX",
             options: [
             "VRAI",
             "FAUX", "VRAI ET FAUX",
