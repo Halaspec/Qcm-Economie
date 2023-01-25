@@ -297,7 +297,7 @@ options: [
         {
         numb: 30,
         question: "Dans le modèle néoclassique, le SMIC crée du chômage involontaire :",
-        answer: "FAUX",
+        answer: "VRAI",
         options: [
         "VRAI",
         "FAUX", "VRAI ET FAUX",
@@ -307,7 +307,7 @@ options: [
         {
         numb: 31,
         question: "Les logiciels et bases de données sont considérés comme :",
-        answer: "Des capitaux variables",
+        answer: "Des consommations intermédiaires",
         options: [
         "Des capitaux fixes",
         "Des capitaux variables",
