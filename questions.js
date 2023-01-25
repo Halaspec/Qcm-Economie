@@ -387,7 +387,7 @@ options: [
             {
             numb: 39,
             question: "La pollution d’une rivière par une usine fait baisser le PIB :",
-            answer: "VRAI",
+            answer: "FAUX",
             options: [
             "VRAI",
             "FAUX", "VRAI ET FAUX",
