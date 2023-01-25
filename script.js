@@ -10,13 +10,14 @@ const time_line = document.querySelector("header .time_line");
 const timeText = document.querySelector(".timer .time_left_txt");
 const timeCount = document.querySelector(".timer .timer_sec");
 const myscore = document.querySelector(".myscore");   
-const set_score = document.querySelector(".set_score");   
+const set_score = document.querySelector(".set_score.disabled");   
 
 // if startQuiz button clicked
 start_btn.onclick = ()=>{
     info_box.classList.add("activeInfo"); //show info box
-    set_score.classList.add("set_score.active");
-    set_score.classList.remove("set_score");
+    set_score.classList.remove("set_score.disabled");
+    set_score.classList.add("set_score");
+   
 
 }
 
@@ -155,7 +156,8 @@ function optionSelected(answer){
 }
 
 function showResult(){
-    set_score.classList.remove("set_score.active"); //hide score bar
+    set_score.classList.remove("set_score");
+    set_score.classList.add("set_score.disabled");//hide score bar
     info_box.classList.remove("activeInfo"); //hide info box
     quiz_box.classList.remove("activeQuiz"); //hide quiz box
     result_box.classList.add("activeResult"); //show result box
