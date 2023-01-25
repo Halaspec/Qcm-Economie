@@ -388,6 +388,13 @@ footer button.show{
     display:none;
 }
 
+.set_score.active{
+    background: white;
+    width: fit-content;
+    display:block;
+}
+
+
 @media screen and (max-width: 500px) {
     
     .info_box.activeInfo, .quiz_box.activeQuiz, .result_box.activeResult {
