@@ -114,6 +114,7 @@ let crossIconTag = '<div class="icon cross"><i class="fas fa-times"></i></div>';
 
 //if user clicked on option
 function optionSelected(answer){
+    alert(userScore);
     clearInterval(counter); //clear counter
     clearInterval(counterLine); //clear counterLine
     let userAns = answer.textContent; //getting user selected option
@@ -127,6 +128,7 @@ function optionSelected(answer){
         console.log("Correct Answer");
         console.log("Your correct answers = " + userScore);
     }else{
+        userScore -= 1; //upgrading score value with 1
         answer.classList.add("incorrect"); //adding red color to correct selected option
         answer.insertAdjacentHTML("beforeend", crossIconTag); //adding cross icon to correct selected option
         console.log("Wrong Answer");
