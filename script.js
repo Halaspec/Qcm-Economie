@@ -151,7 +151,7 @@ function optionSelected(answer){
         option_list.children[i].classList.add("disabled"); //once user select an option then disabled all options
     }
     //alert(userScore); // debug session 
-    myscore.innerHTML = userScore;
+    myscore.innerHTML = userScore + "/ 40";
     next_btn.classList.add("show"); //show the next button if user selected any option
 }
 
